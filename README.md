@@ -15,3 +15,5 @@ You may be able to find a fork that suits your needs.  Add them here.
 Forks
 ====
 https://github.com/gillesgagniard/wso2-wsf-cpp-gg
+https://github.com/techhead/wsf
+https://github.com/calders/wsf
